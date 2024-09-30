@@ -25,3 +25,6 @@
 1. https://finance.yahoo.com/news/indias-tata-motors-slumps-ubs-062715228.html
 2. https://www.livemint.com/market/stock-market-news/tata-motors-vs-maruti-vs-m-m-which-auto-stock-to-buy-amid-rbis-rate-cut-buzz-11727509659377.html
 3. https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-dharmesh-shah-of-icici-securities-recommends-tata-motors-and-deepak-nitrite-to-buy-on-september-11727539077898.html
+
+# Question Used
+What is the target for Tata Motors ?
